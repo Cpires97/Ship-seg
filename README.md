@@ -13,7 +13,7 @@ We implement the U-Net network with a pre-trained model from here [Segmentation-
 
 ## Datasets
 To train and test the cascade model we used two dasasets:
--Seagull dataset http://vislab.isr.ist.utl.pt/seagull-dataset/
+- Seagull dataset http://vislab.isr.ist.utl.pt/seagull-dataset/
 - Airbus Ship Detection Challenge https://www.kaggle.com/c/airbus-ship-detection/data 
 
 
