@@ -17,8 +17,9 @@ To train and test the cascade model we used two dasasets:
 - Airbus Ship Detection Challenge https://www.kaggle.com/c/airbus-ship-detection/data 
 
 
-![Image](segmentation/results/ex_1/00a3ab3cc.jpg?) 
 <img src="https://github.com/Cpires97/Ship-seg/blob/main/segmentation/results/ex_1/00a3ab3cc.jpg" width="200" />
+<img src="https://github.com/Cpires97/Ship-seg/blob/main/segmentation/results/ex_1/bb.png" width="200" />
+<img src="https://github.com/Cpires97/Ship-seg/blob/main/segmentation/results/ex_1/Figure_2.png" width="200" />
 
 
 
