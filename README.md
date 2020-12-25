@@ -18,7 +18,7 @@ To train and test the cascade model we used two dasasets:
 
 
 ![Image](segmentation/results/ex_1/00a3ab3cc.jpg?) 
-<img src="https://segmentation/results/ex_1/00a3ab3cc.jpg" width="200" />
+<img src="https://github.com/Cpires97/Ship-seg/blob/main/segmentation/results/ex_1/00a3ab3cc.jpg" width="200" />
 
 
 
