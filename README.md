@@ -30,9 +30,12 @@ To train and test the cascade model we used two dasasets:
 - smallBoatStopped
 
 ## Results
-Method | #Score | #Time |
+Method | #Score | #Time/image [s] |
 --- | --- | --- | 
-Seconds | 301 | 283 | 290 | 
+Full image segmentation | 0.71 | 1.47 |
+Full image segmentation + CRF| 0.76 | 6.1 |
+Cascade Model | 0.82 | 0.09 |
+Cascade Model + CRF | 0.82 | 0.13 |
 
 <img src="https://github.com/Cpires97/Ship-seg/blob/main/segmentation/results/ex_1/00a3ab3cc.jpg" width="300" /> <img src="https://github.com/Cpires97/Ship-seg/blob/main/segmentation/results/ex_1/bb.png" width="400" />
 <img src="https://github.com/Cpires97/Ship-seg/blob/main/segmentation/results/ex_1/Figure_2.png" width="700" />
