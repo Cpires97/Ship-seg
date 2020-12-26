@@ -5,11 +5,16 @@ Method with two stages: Detection and Segmentation.
 
 Detection stage detects possible locations of the ship, and a segmentation stage segments the bounding boxes from the previous stage.
 
+Addition of a post-processing technique, CRFs, to improve the segmentation.
+
 ## Detection stage
 We use the YOLO network implementation [YOLOv3] https://github.com/pjreddie/darknet
 
 ## Segmentation stage
 We implement the U-Net network with a pre-trained model from here [Segmentation-model] https://github.com/qubvel/segmentation_models 
+
+## Conditional Random Fields
+We use a python implementation of the dense CRFs from here https://github.com/lucasb-eyer/pydensecrf
 
 ## Datasets
 To train and test the cascade model we used two dasasets:
