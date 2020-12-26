@@ -30,6 +30,10 @@ To train and test the cascade model we used two dasasets:
 - smallBoatStopped
 
 ## Results
+Method | #Score | #Time |
+--- | --- | --- | 
+Seconds | 301 | 283 | 290 | 
+
 <img src="https://github.com/Cpires97/Ship-seg/blob/main/segmentation/results/ex_1/00a3ab3cc.jpg" width="300" /> <img src="https://github.com/Cpires97/Ship-seg/blob/main/segmentation/results/ex_1/bb.png" width="400" />
 <img src="https://github.com/Cpires97/Ship-seg/blob/main/segmentation/results/ex_1/Figure_2.png" width="700" />
 
