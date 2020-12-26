@@ -30,6 +30,7 @@ To train and test the cascade model we used two dasasets:
 - smallBoatStopped
 
 ## Results
+Results on the Airbus Ship Detection Challenge: 
 Method | #Score | #Time/image [s] |
 --- | --- | --- | 
 Full image segmentation | 0.71 | 1.47 |
